@@ -1,0 +1,48 @@
+
+/*Tabel Home*/
+
+TH 
+{
+	color: #FFFFFF; 
+	background-color: #2E4053; 
+	border-width: 1px; 
+	border-style: solid; 
+	border-color: #99A3A4;
+	font-size: 12pt
+}
+TD
+{
+	color: #5D6D7E;
+	background-color: #ECF0F1; 
+	border-width: 1px; 
+	border-style: solid; 
+	border-color: #2C3E50;
+	font-size: 12pt
+}
+
+/*Menu*/
+.nav
+{
+	background-color: #F3F3F3;
+	list-style: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.nav li
+{
+	display: inline-block;
+	font-size: 9;
+	font-color: black;
+	padding: 20px;
+}
+/* header */
+.header
+{font-family: arial; font-color:black;}
+
+.header 
+{
+	background-color: #F3F3F3;
+	opacity: 0.5;
+}
